@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Rust Functions In LeetCode'
-pubDate: 2022-02-10
+pubDate: 2222-02-10
 description: '收集了俺刷题过程中遇到的不熟悉却好用的Rust内置functions与traits'
 author: 'Solar1s'
 cover:
